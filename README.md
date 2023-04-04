@@ -1,2 +1,2 @@
-# Dockerize-sprintboot-app-with-mongodb
+# Dockerize-springboot-app-with-mongodb
 How to dockerize Sprint Boot Application with MongoDB
